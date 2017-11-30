@@ -1,39 +1,27 @@
 [
   {
-    "repository": "invisiblek/android_device_essential_mata_data-ipa-cfg-mgr",
-    "target_path": "device/essential/mata/data-ipa-cfg-mgr",
-    "revision" : "lineage-15.0",
-    "remote" : "gh"
+    "repository": "CarbonROM/android_device_essential_mata_gps",
+    "target_path": "device/essential/mata/gps"
   },
   {
-    "repository": "invisiblek/android_kernel_essential_msm8998",
-    "target_path": "kernel/essential/msm8998",
-    "revision" : "lineage-15.0",
-    "remote" : "gh"
+    "repository": "CarbonROM/android_device_essential_mata_data-ipa-cfg-mgr",
+    "target_path": "device/essential/mata/data-ipa-cfg-mgr"
   },
   {
-    "repository": "invisiblek/android_kernel_essential_msm8998_drivers_staging_fw-api",
-    "target_path": "kernel/essential/msm8998/drivers/staging/fw-api",
-    "revision" : "lineage-15.0",
-    "remote" : "gh"
+    "repository": "CarbonROM/android_kernel_essential_msm8998",
+    "target_path": "kernel/essential/msm8998"
   },
   {
-    "repository": "invisiblek/android_kernel_essential_msm8998_drivers_staging_qca-wifi-host-cmn",
-    "target_path": "kernel/essential/msm8998/drivers/staging/qca-wifi-host-cmn",
-    "revision" : "lineage-15.0",
-    "remote" : "gh"
+    "repository": "CarbonROM/android_kernel_essential_msm8998_drivers_staging_fw-api",
+    "target_path": "kernel/essential/msm8998/drivers/staging/fw-api"
   },
   {
-    "repository": "invisiblek/android_kernel_essential_msm8998_drivers_staging_qcacld-3.0",
-    "target_path": "kernel/essential/msm8998/drivers/staging/qcacld-3.0",
-    "revision" : "lineage-15.0",
-    "remote" : "gh"
+    "repository": "CarbonROM/android_kernel_essential_msm8998_drivers_staging_qca-wifi-host-cmn",
+    "target_path": "kernel/essential/msm8998/drivers/staging/qca-wifi-host-cmn"
   },
   {
-    "repository": "LineageOS/android_vendor_qcom_opensource_location",
-    "target_path": "vendor/qcom/opensource/location",
-    "revision" : "lineage-15.0",
-    "remote" : "gh"
+    "repository": "CarbonROM/android_kernel_essential_msm8998_drivers_staging_qcacld-3.0",
+    "target_path": "kernel/essential/msm8998/drivers/staging/qcacld-3.0"
   },
   {
     "repository": "LineageOS/android_vendor_nxp-nfc_opensource_frameworks",
@@ -54,9 +42,9 @@
     "remote" : "gh"
   },
   {
-    "repository": "invisiblek/android_device_essential_mata_gps",
-    "target_path": "device/essential/mata/gps",
+    "repository": "LineageOS/android_vendor_qcom_opensource_location",
+    "target_path": "vendor/qcom/opensource/location",
     "revision" : "lineage-15.0",
     "remote" : "gh"
- }
+  }
 ]
